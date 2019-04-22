@@ -20,8 +20,8 @@
 .doc/html.md
 .doc/js.md
 .doc/misc.md
-.doc/TOC.md
-./doc.usage.md
+./doc/usage.md
+./doc/TOC.md
 
 
 ######################
