@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ######################
 # Project Specific
 ######################
@@ -16,10 +17,10 @@
 ../tile-wide.png
 ./doc/css.md
 ./doc/extend.md
-.doc/faq.md
-.doc/html.md
-.doc/js.md
-.doc/misc.md
+./doc/faq.md
+./doc/html.md
+./doc/js.md
+./doc/misc.md
 ./doc/usage.md
 ./doc/TOC.md
 
@@ -136,5 +137,8 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache# Include your project-specific ignores in this file
+=======
+# Include your project-specific ignores in this file
+>>>>>>> 937f86ee6c3ad3a60f1217c0441eabe85234a39c
 # Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
 # Useful .gitignore templates: https://github.com/github/gitignore
